@@ -18,51 +18,45 @@
     content: >
         <a href="http://internetetmoi.fr/blog/474-degres-de-separation/"><img src="/images/degres-sep.png" class="pull-right img-responsive floating-image img-thumbnail"></a>
         <a class="label label-info" href="/surveillance.html">surveillance</a>
-        Depuis des années, les agences gouvernementales et autres services
-        secrets s'affairent à créer des **graphes sociaux**, représentants les
-        **liens entre individus**. En effet, une personne peut devenir
-        _intéressante_ du jour au lendemain, que ce soit parce qu'elle devient
-        célèbre, nuisible ou simplement parce que ses opinions (politiques,
-        religieuses) ne sont plus en phase avec le gouvernement en place.
+        Seit Jahren, Behörden und anderen Geheimdienste versuchen Sozialnetze 
+        zu baueh, die **Bezihungen zwischen Menschen** darstellen. Eine Person
+        kann von heute auf morgen _interessant_ werden, entweder weil sie Bekannt 
+        wird, stört oder einfach weil ihre Meinungen (politische, religiösen)
+        nicht mehr mit der der Regiurung passt.
 
 
-        Lorsqu'une personne est placée sous "surveillance", son entourage
-        l'est également, ce qui se traduit par une **surveillance des personnes à
-        deux voire trois degrés**. En prenant en considération la [théorie
-        des six degrés de
-        séparation](https://fr.wikipedia.org/wiki/Six_degr%C3%A9s_de_s%C3%A9paration)
-        (voir également l'[étude du petit
-        monde](https://fr.wikipedia.org/wiki/%C3%89tude_du_petit_monde) datant
-        de 1967), cela représente beaucoup, beaucoup de monde. Vous pouvez
-        donc, à votre insu, être surveillé, même si vous n'avez rien à vous
-        reprocher. En 2011, l'Université de Milan a montré qu’en moyenne un
-        membre du réseau social Facebook est séparé de tout autre membre par
-        4,74 relations.
+        Wenn eine Person unter "Beobartung" gestellt wird, ihre Umgebund wird es auch,
+        dadurch entsteht eine **Überwachung bis zwei oder drei Grad**. 
+        Wenn man die [Kleine-Welt-Phänomen](https://de.wikipedia.org/wiki/Kleine-Welt-Ph%C3%A4nomen)
+        in betracht zieht, es sind viele, viele Leute. Sie können also,
+        ohne es zu wissen, überwacht werden, auch wenn Sie sich keine Vorfürfe
+        machen können. In 2011, eine [Studie der Universität Milano](http://arxiv.org/abs/1111.4570) 
+        hat gezeigt, dass einen Facebook Mitglied ist in Durchschnitt von jeder andere Mitglied 
+        durch 4,24 Beziehungen getrennt.
 
 
-        <a class="label label-warning" href="/transparence.html">transparence</a>
-        Si vous n'avez rien à cacher, vos proches ont probablement un avis
-        différent, et vous les mettez soit en danger, soit dans une position
-        délicate si ce que vous n'avez pas à cacher de votre côté se retourne
-        contre eux. Les [licenciements
-        Facebook](http://www.cfdt.fr/portail/themes/droits-des-salaries/licenciements-facebook-quels-risques-pour-les-salaries-prod_141695)
-        survenus ces dernières années en sont de très bons exemples.
-
+        <a class="label label-warning" href="/transparenz.html">transparenz</a>
+        Wenn Sie nichts zu verbergen haben, die Personen, die Ihnen vertraut sind
+        haben möglicherweise eine andere Meinung, und Sie gefährden ihnen, oder
+        bringen sie in einen unangenehme Lage wenn was sie nicht zu verbergen
+        haben gegen ihnen verwendet wird. 
+        [Facebook Kündigungen](http://www.rtl.de/cms/news/rtl-aktuell/hochzeitsfoto-bei-facebook-kuendigung-31465-51ca-38-1597315.html)
+        in den letzten Jahren sind davon gute Beispiele.
+        
+# See also http://arxiv.org/abs/1111.4503
 
 -
-    title: "Pourquoi est-ce plus compliqué que ce que l'on pense ?"
+    title: "Warum es komplizierter ist als man denkt?"
     content: >
-        **Vous ne pouvez pas être certain que ce que vous faites aujourd'hui ne
-        sera pas interdit demain**. Vous avez raison en un sens, vous n'avez
-        rien à cacher aujourd'hui, mais vous ne pouvez pas savoir ce qu'il en
-        sera demain. Sinon, soyez bien sûrs que les juifs d'Allemagne en 1936
-        se seraient bien gardés d'aller se déclarer (la répression est arrivée
-        ensuite). L'histoire est là pour nous rappeler que le pire peut
-        effectivement se produire.
+        **Sie können sich nicht sicher sein, dass was sie heute machen morgen 
+        nicht verboten wird.** In diesem Sinne, Sie haben recht, heute haben
+        Sie nichts zu verbergen, allerdings Sie können sich nicht sicher sein
+        was morgen bringen wird. Ansonsten, seien Sie sicher, dass deutsche Juden 
+        hätten sich 1936 nicht registriert (Repression kam dann später).
+        Die Geschichte errinert uns, dass das Schlimmste tatsächlich passieren kann.
 
 
-        <a class="label label-warning" href="/transparence.html">transparence</a>
-        Pour terminer cette introduction, vous n'êtes pas à l'abri d'abus comme
-        [ces employés victimes de l'utilisation abusive de la géolocalisation
-        par leurs
-        employeurs](http://rue89.nouvelobs.com/2014/02/25/etre-geolocalise-employeur-men-fiche-nai-rien-a-cacher-250150).
+        <a class="label label-warning" href="/transparenz.html">transparenz</a>
+        Um diese Einführung abzuschließen, Sie sind nicht gegen Missbrauch geschützt,
+        etwa wie [diese Arbeitnehmern, die Opfern der Missbrauch der Geolokalisation 
+        durch deren Arbeitgebern wurden (Fr)](http://rue89.nouvelobs.com/2014/02/25/etre-geolocalise-employeur-men-fiche-nai-rien-a-cacher-250150).
