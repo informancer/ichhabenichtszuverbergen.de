@@ -1,62 +1,58 @@
 -
-    title: "Darf ich Ihnen nach dem Passwort Ihres Rechners, Ihre Email
-    und Ihre Facebookkonto fragen? Ich verspreche, ich werde nichts böses tun,
+    title: "Darf ich Sie nach dem Passwort Ihres Rechners, Ihre Email
+    und Ihres Facebookkontos fragen? Ich verspreche, ich werde nichts böses tun,
     nur lesen."
     content: >
-        Wie können Sie wagen, _nein_ zu sagen? Wenn Sie nichts zu verbergen haben,
-        Sie dürfen keine **Unterscheidung"" zwischen was Sie veröffentlichen und 
-        was Sie etwa mehr stört. Ab dem Moment wo Sie eine **Grenze** ziehen, 
-        Sie haben etwas zu verbergen. (und es ist völlig normal!).
-
-
-        Wir Menschen unterscheiden uns voneinander indem wir alle eine 
+        Wie können Sie es wagen, _nein_ zu sagen? Wenn Sie nichts zu verbergen haben,
+        dürfen Sie keinen **Unterschied** zwischen was Sie veröffentlichen und 
+        was Sie etwas mehr stört machen. Sobald Sie eine **Grenze** ziehen, 
+	haben Sie etwas zu verbergen. (und das ist vollig normal!).
+        
+	Wir Menschen unterscheiden uns voneinander indem wir alle ein 
         [**Privatleben**](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Menschenrechtskonvention#Artikel_8_.E2.80.93_Recht_auf_Achtung_des_Privat-_und_Familienlebens),
-        eine Intimsphäre, denn wir nicht ständig offenbaren.
+        und eine Intimsphäre haben die wir nicht ständig offenbaren.
 
 -
     title: "Wenn Sie es nicht für sich machen, machen Sie es für mich!"
     content: >
         <a href="http://internetetmoi.fr/blog/474-degres-de-separation/"><img src="/images/degres-sep.png" class="pull-right img-responsive floating-image img-thumbnail"></a>
         <a class="label label-info" href="/ueberwachung.html">Überwachung</a>
-        Seit Jahren, Behörden und anderen Geheimdienste versuchen Sozialnetze 
-        zu baueh, die **Bezihungen zwischen Menschen** darstellen. Eine Person
-        kann von heute auf morgen _interessant_ werden, entweder weil sie Bekannt 
-        wird, stört oder einfach weil ihre Meinungen (politische, religiösen)
-        nicht mehr mit der der Regiurung passt.
+	Seit Jahren versuchen Behörden und andere Geheimdienste Sozialenetze
+	zu bauen, die **Beziehungen zwischen Menschen** dastellen. Eine Person
+        kann von heute auf morgen _interessant_ werden, zum Beispiel weil sie Bekannt
+        wird, stört oder weil ihre Meinung (politisch, religiös)
+        nicht mehr mit der der Regierung vereinbar ist. 
+ 
+        Wenn eine Person unter "Beobachtung" gestellt wird, wird es auch ihre Umgebung.
+        Dadurch entsteht eine **Überwachung bis zwei oder drei Knoten** wie sie in dem ["Kleine-Welt-Phänomen"](https://de.wikipedia.org/wiki/Kleine-Welt-Ph%C3%A4nomen) beschrieben werden. 
+        Wenn das [Kleine-Welt-Phänomen](https://de.wikipedia.org/wiki/Kleine-Welt-Ph%C3%A4nomen) [Six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
+        in Betracht gezogen wird, sind es viele, viele Leute die "beobachtet" werden. Sie können also,
+        ohne es zu wissen, überwacht werden, auch wenn Sie nichts falsch gemacht haben oder sich nicht falsch verhalten haben.
+        Eine [Studie der Universität Milano](http://arxiv.org/abs/1111.4570) in 2011 
+        hat gezeigt, dass ein Facebook Mitglied im Durchschnitt von jedem anderen Mitglied 
+        durch 4,24 Beziehungen (Knoten) getrennt ist.
 
-
-        Wenn eine Person unter "Beobartung" gestellt wird, ihre Umgebund wird es auch,
-        dadurch entsteht eine **Überwachung bis zwei oder drei Grad**. 
-        Wenn man die [Kleine-Welt-Phänomen](https://de.wikipedia.org/wiki/Kleine-Welt-Ph%C3%A4nomen)
-        in betracht zieht, es sind viele, viele Leute. Sie können also,
-        ohne es zu wissen, überwacht werden, auch wenn Sie sich keine Vorfürfe
-        machen können. In 2011, eine [Studie der Universität Milano](http://arxiv.org/abs/1111.4570) 
-        hat gezeigt, dass einen Facebook Mitglied ist in Durchschnitt von jeder andere Mitglied 
-        durch 4,24 Beziehungen getrennt.
-
-
-        <a class="label label-warning" href="/transparenz.html">transparenz</a>
-        Wenn Sie nichts zu verbergen haben, die Personen, die Ihnen vertraut sind
-        haben möglicherweise eine andere Meinung, und Sie gefährden ihnen, oder
-        bringen sie in einen unangenehme Lage wenn was sie nicht zu verbergen
-        haben gegen ihnen verwendet wird. 
+        <a class="label label-warning" href="/transparenz.html">Transparenz</a>
+	Wenn Sie nichts zu verbergen haben, können Sie durch diese Informationen andere Personen, die in Ihrem 
+	Vertrautenkreis sind, möglicherweise gefährden oder in eine unangenehme Lage bringen. 
+	Informationen, die Sie über diese Person besitzen, können für die jeweilige Person eine andere Bedeutung haben. 
         [Facebook Kündigungen](http://www.rtl.de/cms/news/rtl-aktuell/hochzeitsfoto-bei-facebook-kuendigung-31465-51ca-38-1597315.html)
-        in den letzten Jahren sind davon gute Beispiele.
-        
+        sind dafür gute Beispiele. 
+
 # See also http://arxiv.org/abs/1111.4503
 
 -
     title: "Warum es komplizierter ist als man denkt?"
     content: >
-        **Sie können sich nicht sicher sein, dass was sie heute machen morgen 
-        nicht verboten wird.** In diesem Sinne, Sie haben recht, heute haben
-        Sie nichts zu verbergen, allerdings Sie können sich nicht sicher sein
-        was morgen bringen wird. Ansonsten, seien Sie sicher, dass deutsche Juden 
-        hätten sich 1936 nicht registriert (Repression kam dann später).
-        Die Geschichte errinert uns, dass das Schlimmste tatsächlich passieren kann.
+        **Sie können sich nicht sicher sein, dass das was sie heute tun morgen 
+        nicht verboten wird.** In diesem Sinne haben Sie recht, heute haben
+        Sie nichts zu verbergen, allerdings können Sie sich nicht sicher sein
+        was der nächste Tag für Sie bringt. Sie können sich sicher sein, dass deutsche Juden  
+        sich 1936 nicht registiert hätten (Die Repression kam dann später).
+        Die Geschichte erinnert uns an die Tatsache, dass das Schlimmste tatsächlich passieren kann.
 
 
-        <a class="label label-warning" href="/transparenz.html">transparenz</a>
-        Um diese Einführung abzuschließen, Sie sind nicht gegen Missbrauch geschützt,
-        etwa wie [diese Arbeitnehmern, die Opfern der Missbrauch der Geolokalisation 
-        durch deren Arbeitgebern wurden (Fr)](http://rue89.nouvelobs.com/2014/02/25/etre-geolocalise-employeur-men-fiche-nai-rien-a-cacher-250150).
+        <a class="label label-warning" href="/transparenz.html">Transparenz</a>
+        Zum Abschluss dieser Einführung: Sie sind nicht gegen den Missbrauch der Informationen geschützt, die sie preisgeben. 
+        Etwa wie [diese Arbeitnehmer, die Opfer des Missbrauchs der Geolokalisation 
+        durch ihre Arbeitgeber wurden (Fr)](http://rue89.nouvelobs.com/2014/02/25/etre-geolocalise-employeur-men-fiche-nai-rien-a-cacher-250150).
